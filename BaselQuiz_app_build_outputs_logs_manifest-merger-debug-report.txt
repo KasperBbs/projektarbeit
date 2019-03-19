@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4edeabda2c80f32a1e74867c1bd52b80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\41fb16e9d0d7d85b541a4512aa59762f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8d9901e2e066a0ce8ce3e271450c1afd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4d5ba2b77655c84c28c47066cf561745\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5590fc6509f58290e124e46ad826c6d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58f9ea68e91c75f0e4382d37e3a007ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f89524cb9475e5e7d44e702fcc062869\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b436872a3b792c466dec8c32f6f5568b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5f82579213aad98a4e0ce4d5e7f18bc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7160080c63c0cf1192f212c1e55c05bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9e8bf23883ebf1dd9dc2cfe964422f08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f67bdd9161f8f77774e9289ec44dfb23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c961c789b34ea18faffec9e2cc9043aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e8d42d143476f578c680dfe4153e43c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0c18d71e0a72c22b32e494e39bd1aca2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\883d7b77d5023da50d06c959e63da77f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4132a3a05c066c69f334d6ea1479aea0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\35e8a0243927c6dee162be3d68fb5b3f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\168a75e5cf8fa080f98101b101dc98c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b62a582ea1af728c9dbb687b562b587f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\48ec08135fd6f2a9a194531bf019e9c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\35ea6dc1b7882cf3a7cc5755567a1798\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1e482cb07a25c434cf3c387229c612a8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a49160ad593b233738c437cc6c7d9eeb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b3b27385de4f77cc4d1cbd1754ed91c3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fd664239bc0fa146365fbdf89f50f052\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1d053857d325d87e953644e8ed64e321\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\41fb16e9d0d7d85b541a4512aa59762f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\41fb16e9d0d7d85b541a4512aa59762f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\883d7b77d5023da50d06c959e63da77f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\883d7b77d5023da50d06c959e63da77f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4132a3a05c066c69f334d6ea1479aea0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4132a3a05c066c69f334d6ea1479aea0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\883d7b77d5023da50d06c959e63da77f\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.bengiundkasper.baselquiz.QuizActivity
+ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:12:19-47
+activity#com.bengiundkasper.baselquiz.MainActivity
+ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4edeabda2c80f32a1e74867c1bd52b80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4edeabda2c80f32a1e74867c1bd52b80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\41fb16e9d0d7d85b541a4512aa59762f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\41fb16e9d0d7d85b541a4512aa59762f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8d9901e2e066a0ce8ce3e271450c1afd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8d9901e2e066a0ce8ce3e271450c1afd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4d5ba2b77655c84c28c47066cf561745\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4d5ba2b77655c84c28c47066cf561745\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5590fc6509f58290e124e46ad826c6d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5590fc6509f58290e124e46ad826c6d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58f9ea68e91c75f0e4382d37e3a007ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58f9ea68e91c75f0e4382d37e3a007ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f89524cb9475e5e7d44e702fcc062869\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f89524cb9475e5e7d44e702fcc062869\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b436872a3b792c466dec8c32f6f5568b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b436872a3b792c466dec8c32f6f5568b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5f82579213aad98a4e0ce4d5e7f18bc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5f82579213aad98a4e0ce4d5e7f18bc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7160080c63c0cf1192f212c1e55c05bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7160080c63c0cf1192f212c1e55c05bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9e8bf23883ebf1dd9dc2cfe964422f08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9e8bf23883ebf1dd9dc2cfe964422f08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f67bdd9161f8f77774e9289ec44dfb23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f67bdd9161f8f77774e9289ec44dfb23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c961c789b34ea18faffec9e2cc9043aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c961c789b34ea18faffec9e2cc9043aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e8d42d143476f578c680dfe4153e43c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e8d42d143476f578c680dfe4153e43c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0c18d71e0a72c22b32e494e39bd1aca2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0c18d71e0a72c22b32e494e39bd1aca2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\883d7b77d5023da50d06c959e63da77f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\883d7b77d5023da50d06c959e63da77f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4132a3a05c066c69f334d6ea1479aea0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4132a3a05c066c69f334d6ea1479aea0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\35e8a0243927c6dee162be3d68fb5b3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\35e8a0243927c6dee162be3d68fb5b3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\168a75e5cf8fa080f98101b101dc98c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\168a75e5cf8fa080f98101b101dc98c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b62a582ea1af728c9dbb687b562b587f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b62a582ea1af728c9dbb687b562b587f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\48ec08135fd6f2a9a194531bf019e9c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\48ec08135fd6f2a9a194531bf019e9c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\35ea6dc1b7882cf3a7cc5755567a1798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\35ea6dc1b7882cf3a7cc5755567a1798\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1e482cb07a25c434cf3c387229c612a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1e482cb07a25c434cf3c387229c612a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a49160ad593b233738c437cc6c7d9eeb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a49160ad593b233738c437cc6c7d9eeb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b3b27385de4f77cc4d1cbd1754ed91c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b3b27385de4f77cc4d1cbd1754ed91c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fd664239bc0fa146365fbdf89f50f052\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fd664239bc0fa146365fbdf89f50f052\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1d053857d325d87e953644e8ed64e321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kaspe\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1d053857d325d87e953644e8ed64e321\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\BaselQuiz\app\src\main\AndroidManifest.xml
